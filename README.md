@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hogwarts Educational Platform**
 
-- 👨‍💻 All of my projects are available at [dev.to/javascriptx](dev.to/javascriptx)
+- 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
 - 📫 How to reach me **contact@taharchtioui.com**
 
